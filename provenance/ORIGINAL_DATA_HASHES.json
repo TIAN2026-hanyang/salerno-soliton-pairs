@@ -1,0 +1,1760 @@
+[
+  {
+    "file": "data/HH_convergence.csv",
+    "sha256": "cd307c82bd036292559d9c9435a993aab29210f685f91c911ac8e1191c96a128",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/branches_m10.csv",
+    "sha256": "b0627c1e4e59564f4118879a06dd20c01677cd8ecf17de9edca407d4fe5a9b55",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": true
+  },
+  {
+    "file": "data/collision_coarse_max_check.npz",
+    "sha256": "f8b88da794cd50f12310b451a48e9ff4e8a75ecee6eb306ce9b5930c7e660e2d",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_dense_output.npz",
+    "sha256": "28b12ce88afceb1ff11b46e61fc12a634bb495b42d168ad03516565af5661c4a",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_fast.npz",
+    "sha256": "7656e9175ead90fe10d91b6f8d0936fce9927b78be4d0dd74fb25c0ca1b40da8",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p0_a0.npz",
+    "sha256": "fd93390a21772ddd4e6a432fa9a4b0ceba959e67b69e9e6f0600ac49bfe68616",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p0_a1.npz",
+    "sha256": "4a8d6ae3517d314646ab45118028b3b0d727cff71a3b3018b987a6f46f4b88f4",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p0_a10.npz",
+    "sha256": "2a18af6ad4a538001f369e54e095e29bcc8eefe99000a58b23d72c4960ca01b6",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p0_a11.npz",
+    "sha256": "db11145dac66b4078c477e0def7d8db8cd5f247b529abd1e287d78d438a3454d",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p0_a2.npz",
+    "sha256": "8719d64a811d0b85ad3b39c8f9d65b8ae5fa59b3a9f021a3ffa8e2bed1d477ec",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p0_a3.npz",
+    "sha256": "38493598702f7ad2596abb5175a184d647a39290193091cc27dafa8b2db1d846",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p0_a4.npz",
+    "sha256": "fddb733d34afac9994e7447422bc2b5800e9f87a4bc58b0eacbcdeb17a7839ed",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p0_a5.npz",
+    "sha256": "2b7b6cb446aa969f69b738cc1a2f14be5fb5452075ca2dd2cf79e8f019675e19",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p0_a6.npz",
+    "sha256": "71d68124bbd7b3b6f7feb4bbc9fa09b15f5f376cea4c46075a8f4858ea4c1cc6",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p0_a7.npz",
+    "sha256": "325cc2ac1510f10d8b7dafce78a6c727e81987df3eff1503a2db59a4aba0093c",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p0_a8.npz",
+    "sha256": "b78d75f6235864bcdef227f5f16e218e10bd27bdd1f4a8adfcf6e3554da785e1",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p0_a9.npz",
+    "sha256": "6b3f6343e7c58798340d57b249146a9b5471a13c38c8a747a55b1eda5d1bff92",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p1_a0.npz",
+    "sha256": "dbda1f58d09310d88f5a4df91d0cafa3a123737f278e80a72b07c6d2731e76c0",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p1_a1.npz",
+    "sha256": "c61795b12e7aebc9ca11ff388ebd3158c8847beb2d6293e5e3d8cb125ef83cff",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p1_a10.npz",
+    "sha256": "cd0be633c5f05f52b02765a2ae6f387aab65bf46a18125eee18b521742f19ae6",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p1_a11.npz",
+    "sha256": "8d7003dac109c3a823ddbd0b20d617e5957105487761ec80ba21d0778421d4f7",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p1_a2.npz",
+    "sha256": "0f1a2f20ae2d9b0b28c144c3d6dbd289fcb93553998bcd049a9a90b5bfa0fd2b",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p1_a3.npz",
+    "sha256": "08031762b79ff3e3274427d33b0fcae27d66bf9d43a2ba7ac55e65dbb3e1e27b",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p1_a4.npz",
+    "sha256": "42fbf1dff8f1bc5c82b04208542f1778bd873ebab7b55963e5f61e7dc77af46b",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p1_a5.npz",
+    "sha256": "70a1d83bacd313afbd0d0b4962fb3350c0391a8846f87ed4dc7eef2e5ab76b39",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p1_a6.npz",
+    "sha256": "7cebbb41dc142eb9e9e8b08208749cd08254ddb3da396b8cf33388478c0c9e63",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p1_a7.npz",
+    "sha256": "ae71d3bf611a013bf770ebd5120508aefb25bf645a8d235941d30d9e4603ad4a",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p1_a8.npz",
+    "sha256": "2e09b383c7990984caaad66825fbcd03672bd65da876aaeeb22e0eef8fe871a9",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p1_a9.npz",
+    "sha256": "ad0310efc744b2bfd42bfcb1421cfd6fbccc36c69cb1ef9de5d7a1b143f5a50e",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p2_a0.npz",
+    "sha256": "86b96706a2f9ee103f833566b9396463cd1e6290588108d3373edaf8d7115de9",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p2_a1.npz",
+    "sha256": "5686538e9a22a201dbb09f0ee2f535e983df6036e1875e99fae076d0474938c1",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p2_a10.npz",
+    "sha256": "d3787995832ab2253354ce07497c4cac30bdacdba340038e875843c6f2bdc9be",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p2_a11.npz",
+    "sha256": "7ef21348621c9fd8c0bd58269a2343cf6b92f1c955ed860406222187a9fcf8cb",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p2_a2.npz",
+    "sha256": "3ae98178bacfcf1d822a4878faa317026770c5e787c4354c1108bb187ce00668",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p2_a3.npz",
+    "sha256": "154bc6cf6eccd5813b46fcf2c3b607d760233ed4d210384093fa8940b7e3386b",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p2_a4.npz",
+    "sha256": "848e96a6486eef1c6125d0d4de02f54440eb6fc9131615a3eca0ad97f435b35d",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p2_a5.npz",
+    "sha256": "c18d37a5b30a70c08ce925b028fbfb6caaffcc97359d89ab05df45a777708fcd",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p2_a6.npz",
+    "sha256": "5abb5078ab9733a03e92a7cf18ad777c1d36da25b78319b0f257aeb9feea0cfe",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p2_a7.npz",
+    "sha256": "7fc4e60d1abc5ef54cafa07602c66667e2246eea930a4ada0ccf50ba3f64b743",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p2_a8.npz",
+    "sha256": "e6805f02b61d0664279e17856a0a2ef019f94ca57374c3cc84128d2ac95a69ec",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p2_a9.npz",
+    "sha256": "6bc7268bc6703d169ac869f8d5c21e54ef23846793976901e98ee131acd4f2c7",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p3_a0.npz",
+    "sha256": "abfa0584a2fc31c85a2a8afc673819b0686f0945e4fdb79094b66bba06eb8d31",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p3_a1.npz",
+    "sha256": "d82f09420e027a776316e427975c4b7bdd0c27af7c6c0cc16bd3222ea0101088",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p3_a10.npz",
+    "sha256": "0183946dd3750676e557386b1c1de2c9f609b56ed39020c947815e52c63afa06",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p3_a11.npz",
+    "sha256": "6e695ba31b3a8244deeddc84a21ceb04cd4d47a466ae7bdf764fa185092983f1",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p3_a2.npz",
+    "sha256": "0d4ac488e563a3f38324cd6ad0f204991415e48ce84d735418e8e71bfbec07f5",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p3_a3.npz",
+    "sha256": "9ff522fb5e0002f817bba570ef4ee6ae7452ffd7a69d8832a07b288186caa4c2",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p3_a4.npz",
+    "sha256": "c3a6e9a9ba501b2487c089536dc0747f413ea3eed4910ba54572a2550ea930dd",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p3_a5.npz",
+    "sha256": "8e9963c32f21fc3ba866d73609c50ec4e01dccb62331e9ffdff0645e57a97e11",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p3_a6.npz",
+    "sha256": "b894a0a60c2a16012b3b83b12c02b473adcba0c4c637aa71e9a33635bc2c99e4",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p3_a7.npz",
+    "sha256": "58430e701588691f1506ddf40f6517d44d3679d26b4c2ac6ef17e86c4831a0b2",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p3_a8.npz",
+    "sha256": "465056bc3eff5840681bbd930c24817e0345baf11d4e539e680ac1a41056d578",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p3_a9.npz",
+    "sha256": "a238ba0349a5f3974dcfec6feef349b8620c445bdfcd930c16ddd035f320499c",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p4_a0.npz",
+    "sha256": "2b08b48519e23a0208c3db6c99a1ccb7a0cadcfabdae53497620f6ffb6c12fb7",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p4_a1.npz",
+    "sha256": "fde242a1206cded08a2ee4b4488b45f52a39e9f8b9e0454349e02761024f2008",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p4_a10.npz",
+    "sha256": "66fe3ee842c9a0c55ca7a795dfe995087df034aaf706fc14177f8c3c83c82ffb",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p4_a11.npz",
+    "sha256": "88813f6f7bccca50a9dc1113dd2ac350689fdb5f5f0de3c7b4af51a3213e2a9c",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p4_a2.npz",
+    "sha256": "ce06bf7fb9adfc9c58661b6fcf32e6de6be3e34d8348e98916a1112c7eebb817",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p4_a3.npz",
+    "sha256": "b419c8b09268f6a1477bd8fe569cf6699403814b36655b05160a08ca1ed82013",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p4_a4.npz",
+    "sha256": "7c578f53276e30fcd4ac02326c15f03e6ad520d1e4ad47d528ed8be2ff7175e5",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p4_a5.npz",
+    "sha256": "eea8f807789cbac3eb895cd2e3b5ed9d1fa99300a4b736bc665fbb2eead0559b",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p4_a6.npz",
+    "sha256": "32325530d79b37253bdef90fd5c862a8041f7be2cddec78ee69505110ccf2fb2",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p4_a7.npz",
+    "sha256": "824f28d4a97b33f471d30f22f1d3590fe417af8484b68e9828156d14b7af5576",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p4_a8.npz",
+    "sha256": "affa7a424c91a4c0e3c99735592359c8045f01c966e37ad1e2abcc263e6d17d1",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p4_a9.npz",
+    "sha256": "1ecd79e42c9617cfceb02fc34060964a23eed85bb7abcf4f1ad4e091ed04e827",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p5_a0.npz",
+    "sha256": "7a61c4e4e362212788372fd241e45c421a4a7ec01ca9b365afdeb54a43db6630",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p5_a1.npz",
+    "sha256": "9d04c3c8eee2f75961d71f30f7a4707ef0b2ce17e03758927743bed14283e953",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p5_a10.npz",
+    "sha256": "44f1d6f974419ff87232fa7c96786bfcd60c095e7e6470a5a60da8179e113134",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p5_a11.npz",
+    "sha256": "8c8295f36a685a01941af5b18cdcf30dc1e3251be6a76d4e4a51554efb28f542",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p5_a2.npz",
+    "sha256": "bbb3de9a56e06aea72a4cb6b4094c61e93e36c6411fcc918478d59ac0c6d9156",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p5_a3.npz",
+    "sha256": "b6a3fe8462017ca7d8f8680b1d9de9b494a04f9019722729508b83434266b715",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p5_a4.npz",
+    "sha256": "ba00269f45759e823ea2fe63cc94ca7bc2fd00b53f14bf260a83ac3bfde349cb",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p5_a5.npz",
+    "sha256": "e796e4365d36c3f86f1f151cddc4aa44aa5c61c9539003a123fb6a78fdca00e3",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p5_a6.npz",
+    "sha256": "c7dddc0253671cd52edfd257a8194ab867b6de30a58a6841802d87cc9194f0d0",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p5_a7.npz",
+    "sha256": "065d25e59a70aabae621a30f3269b36dec3da00bede39b962c2a980c7e4779c1",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p5_a8.npz",
+    "sha256": "3c6d72830aa0639354625393a27d68dd9a68f74c4f727bdcd6f22b947580e278",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p5_a9.npz",
+    "sha256": "6bf534319c644a7f9ce5fbfc255d721b12ec8253cd81276137ee07e0d707be10",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p6_a0.npz",
+    "sha256": "0cb60d12a01feccf70f41c9fa24e942bf85733f4f9d1b1d7f359d421e20b04ed",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p6_a1.npz",
+    "sha256": "bf90f41fd1c9d5256dae2fb42c65004959f19b3ce937968a2b0edd5577d141f3",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p6_a10.npz",
+    "sha256": "5bd528c563a39344e04a73889a9bfe818df5645242852027fd6e95d905436a9c",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p6_a11.npz",
+    "sha256": "884a29212c59bafd19765f3e26e537cabe1be4130607ed00bde6f82a35dc8f79",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p6_a2.npz",
+    "sha256": "853b3a7d076a148c2e1cb401f27f10450103d43e5f05dd747dff60c3c3cedfb8",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p6_a3.npz",
+    "sha256": "9f9611322695476638081ba9ed4ae2b4a272a243f8393344dfd46a0001b25457",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p6_a4.npz",
+    "sha256": "4f61a729ed119971a65795143124803d7ca5d78bca1692d5d2cb7ed4d0fb194e",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p6_a5.npz",
+    "sha256": "7fb78186dd49b8b798b4a513782e6d4b772ffa3d27fc1299eeccd34a698bd06c",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p6_a6.npz",
+    "sha256": "9aa0820fb675758e7690e13b63ab18d34a4bb1b8f56136d59ffb4512efd64cf3",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p6_a7.npz",
+    "sha256": "8da9d27e0a6841294d5a7d048063e9ca1dbff2c0eb14cca4806bfa9671b98311",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p6_a8.npz",
+    "sha256": "d834fb087ae8f21c292073169390a858127c45197e68f67fe2b95e0da066fb21",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p6_a9.npz",
+    "sha256": "c2e7755f445d0c06a6b4c3b37c0b8be4107fa3a2553dbaade154764f2f210e44",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p7_a0.npz",
+    "sha256": "348d90b6d56f0d802a3b0155435071e8c28e5d249b6ea725a2d1f644dc1449c7",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p7_a1.npz",
+    "sha256": "1906c8eee93d92260e79632c72470049ab714b78259c7ac8d220c4dceddac33b",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p7_a10.npz",
+    "sha256": "dbce09e27a57260e5fa9cc88e93129fb61dbef820f0876fa8b4414ae59f0f0cf",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p7_a11.npz",
+    "sha256": "001a706b35b5331cda023c926721f99860df6239a837307597cfb32a9943c7e0",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p7_a2.npz",
+    "sha256": "cb5b95515c49a5599c4029e5e0fdcacecbb44526e9f7c915d9ee4113df8d1331",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p7_a3.npz",
+    "sha256": "5ca3042493b7d04d4c2c9996e38bc0b917dbd63b392b9f0b4dd920f710ad9a39",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p7_a4.npz",
+    "sha256": "c7be8e14a466a655b3c7fcac94d93f8eef09c8f4846dcb514b2bd5bfad52bd14",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p7_a5.npz",
+    "sha256": "320ae5d4a85cad34c40f6bd9b79a1cc260358bcefeeaedbacd5938e92eb19d84",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p7_a6.npz",
+    "sha256": "8c83405e8c2835575cbc04acfbd203181fef7d40af26dfcf75abba0866c82e49",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p7_a7.npz",
+    "sha256": "dd456823e7bd9d71a24e91cb89c718e5110aa99759a5fa6b29cab9d535754c31",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p7_a8.npz",
+    "sha256": "4d1eb41652ab2d3dd08021a29585d87947596e65eac010493619d3d5ae988d0e",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p7_a9.npz",
+    "sha256": "d80fd15ea47a8e643e6131fa48d256f90739ba3b69b0c7daedf4dd54076e543a",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p8_a0.npz",
+    "sha256": "51a4b222c64a4aee27637f163faf4e030cb73e4c42aebd8159edc7982d288e33",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p8_a1.npz",
+    "sha256": "a9d56e976e56cf7dee85102ef4a6470d99d75ae286162c0d99fe93cf36a5b797",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p8_a10.npz",
+    "sha256": "259fd37f5857af64022a0a7d97b5aa3d30d5d2568103d475f1465d0f3debcf4a",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p8_a11.npz",
+    "sha256": "24e7f1ca615125fbaec548862520e59028013f02acf43316bd4d4532878c9be3",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p8_a2.npz",
+    "sha256": "c64be45476715c7c73592d2f29aac9636050ce27fa2b0568617aba958f4262c3",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p8_a3.npz",
+    "sha256": "f66f2f1e399480c6b3846ada7b2ca2858cdae4b4aa784f0a34e435b602e160e6",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p8_a4.npz",
+    "sha256": "5fc441522225b3be88e09c025b962e3f5d31e24902656da13e8b3cf7c54c12f5",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p8_a5.npz",
+    "sha256": "c66d16d55835b03d7bb9054270db7d3f998520437763c26eef0b6c86c8c1e0be",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p8_a6.npz",
+    "sha256": "408e8f1ad4010b466e995b16031203ed18921da94917a40f4edfe0e7a2fd573d",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p8_a7.npz",
+    "sha256": "b86eb734f18bce72711f4a6886de7152a4913509ca6c39ddfe9e98fdd5b0c0d9",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p8_a8.npz",
+    "sha256": "b1236a91c9e327d8da01eac6e1fb1c8367c8580414776111b1912ab4a680a40b",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_grid_p8_a9.npz",
+    "sha256": "1ed43424bd36a52826a4a80c9391e3cc380bf4f6bdb44c7564a9943ade6b3483",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_initial_L200.npz",
+    "sha256": "22e37387cd985219dbfb85d45bc724cc720344a7c6d3a0ef7036c145d438c395",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_initial_L400.npz",
+    "sha256": "e72bcf103dcacffe152901791690c3e3c440acd09419ff0970ed7b039f253195",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_initial_L800.npz",
+    "sha256": "0fc31b999d1275ed3438ade14ed957133c26099eb564dfd68051306ebf62e230",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_inphase_loose_400.npz",
+    "sha256": "5b5aa701a7a2587e147df6b8be066986c8c57a31654047f29c5789a6ba7bfe0e",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_inphase_sensitivity.csv",
+    "sha256": "0f818974426c84bc9b08e4e09c1dc412b25d20f00672c38d2d3aab454999fc70",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_inphase_tight_200.npz",
+    "sha256": "e16d9d93ab2a020dd2f503e7b61168497da814ca62e7c9a5cb77db1e811beb3c",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_inphase_tight_800.npz",
+    "sha256": "5c2dcd909f060d984b2b41d2898511436e69f2ae10692463c50c2db965771dd9",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_large_domain.npz",
+    "sha256": "39ff86c9dac8199ecc72b8fdc2f085cc8d01af34b42f40387f97794246edd86a",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_long_tight.npz",
+    "sha256": "f84e62354ba49412d06cc16d0a786764a844029504ffde3168c554b2f3bda332",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_matched.npz",
+    "sha256": "6e989c5c486d26dbb01fa3eaae2e8e0525f61afd6734b9b0e281498cea3a611e",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_matched_large.npz",
+    "sha256": "ff6ae0d7d5b21aed1f33e20e7e7b13ed2d051564849ac53cc2d4945e1cba835b",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_matching.json",
+    "sha256": "57cc34d83ebc19b3fc165257724468d76708d7a925cedd110ebd10f2c99a29cd",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_output_check.csv",
+    "sha256": "9b2ac7db19cf88f898544285a6fcf8843788b82d72ab913a2984f90d68757feb",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_refine_0.npz",
+    "sha256": "a99756a1893ac4e46726204611b2ba92a2b197dc1169da4a591bca0433bf8e27",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_refine_1.npz",
+    "sha256": "e8e03cd3f4875e871e17b4d9e20246929a4e3edd6d4472758fcb7677f4586008",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_refine_10.npz",
+    "sha256": "fb72c1f7c3464a49ac00283c29ccbeeaacfc93f9c69679c0ae6a2e619ef43ba8",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_refine_11.npz",
+    "sha256": "7ff8de8452bb2c1199c26825e81133f2377ca4ec0a3288b75aa2621109920065",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_refine_12.npz",
+    "sha256": "96e5d2d573a8e1587285f10ca152dbdf041d7b1d04e3353dcb0ea8e328ed6fbc",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_refine_2.npz",
+    "sha256": "8c8d5ddf9bf52d441f0acdf240e7035058df41a86b13fb338f22a24ff763e112",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_refine_3.npz",
+    "sha256": "d23608a92e6456bec6c9473adaa8d46a8129c6bb9ad9abf53b142f4b68b66267",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_refine_4.npz",
+    "sha256": "3c88c7a1320f43cfb221ee913f7d40a4efce7de0fb551180678a1e28cc8fe003",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_refine_5.npz",
+    "sha256": "138a63b53fc0bd65f22bcced700f516a413193df0dc90d5d0ef3e567a9b74f9e",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_refine_6.npz",
+    "sha256": "cd92559b1355fc9a08578cd82f32d2490501faa2534613b52763dbb11856c8e9",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_refine_7.npz",
+    "sha256": "d5193aa7107f74022f43325d6ed1f6fa5b32e4770e5886636e5b7d8e650df3cd",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_refine_8.npz",
+    "sha256": "1a49ed71c4226daa8df686701f32608ef63b90f21a2b834bdd06d6712bcbd07d",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_refine_9.npz",
+    "sha256": "c4f8304704338359fffa69187f774692be3f10de04706d591aa434b139479b55",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_refinement.csv",
+    "sha256": "6215b9b371c5153a6ddc5c4b2433ce502cfc613349c2185b7083c3d705a7a082",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_representatives.csv",
+    "sha256": "d01091a1e663e78c1352b0dcf4c4908ee1bbad4666188c8d6761cd8020c14ae5",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_residence.npz",
+    "sha256": "cd92559b1355fc9a08578cd82f32d2490501faa2534613b52763dbb11856c8e9",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_scan.csv",
+    "sha256": "e312556867ecac30421c188d713918f3daeab1811c3e532b777e41655a7a1fe2",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/collision_sensitivity.csv",
+    "sha256": "96d71b382915c08bc1e2d3cc16dad0e5add7942cf4bfd27f0061afd2d94f25cf",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/daughter_branches.csv",
+    "sha256": "95ee864aab98a499d9a7560773f2bab62532fd5c657c42ccfb9de36bbbe89bbf",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": true
+  },
+  {
+    "file": "data/dns_HH_a1e-06_tol1e-10.npz",
+    "sha256": "4fd167170959a6659f834b92d8821cdd010059db02e702dd46f82057ea4f0194",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/dns_HH_a1e-06_tol2e-12.npz",
+    "sha256": "513cc20a81bd5992ba8f06d0e12a642bc6ad9dd67563e69174b5d3dce0283f7f",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/dns_benchmarks.csv",
+    "sha256": "df5a628de86b2c85cab44209285c71183da63431648c1ebee1cfa837cd8a39c1",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/dns_real_a1e-06_tol1e-10.npz",
+    "sha256": "99a848f82e2204acea388a04967dc43152c40dd1813c4816c62a13ab457c562a",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": true
+  },
+  {
+    "file": "data/dns_real_a1e-06_tol2e-12.npz",
+    "sha256": "e5842235a4413aba543017d664160f085ead410a103e23f707c423242a510614",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/dns_stable0_a1e-06_tol1e-10.npz",
+    "sha256": "6e963d4c0fda3590e2d7b96725a274e19d0ca5f2c3ef6f5a6bee31a63795d434",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": true
+  },
+  {
+    "file": "data/dns_stable0_a1e-06_tol2e-12.npz",
+    "sha256": "4da1c10ac52c03645d110bd62073c3ba9e735ab20108c0a6e829d5e4a15c8b9b",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/dns_stable0_a5e-07_tol1e-10.npz",
+    "sha256": "b976768266e48ef42eef5b9779e371b746fe681f57a87b8e77a566c09163c899",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/dns_stable1_a1e-06_tol1e-10.npz",
+    "sha256": "c88af594167045293f95b703ab93db811e3e72891e04d97e046a795b7c50f12f",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": true
+  },
+  {
+    "file": "data/dns_stable2_a1e-06_tol1e-10.npz",
+    "sha256": "2e7e8b71cdc98839fac2b6ebcb81da1299ffa156f1bd19bafad48087373f2583",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": true
+  },
+  {
+    "file": "data/environment.json",
+    "sha256": "80dece8fa9c312eeff2eda4568ef3f36b1abe239aa2dabf47c345e1942bbf1dd",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.6_s-1_m24.npz",
+    "sha256": "9074bb7a9f20cbbd03fbe07f3c548170e0505aeb0a9a63086ff1f2232e694611",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.6_s-1_m25.npz",
+    "sha256": "6b083ae31352b86ff4ea25b472a71d369693f01ddeea6f322f7b974e0cb06013",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.6_s-1_m26.npz",
+    "sha256": "973ac8048c565547afe4252ce08b9207433c072ebc16b814858f71caea26d211",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.6_s-1_m27.npz",
+    "sha256": "d35556dfa839f83b67b3b5c3c041ac987819ef417aa4dad2f54c6d4ffc0689e4",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.6_s-1_m28.npz",
+    "sha256": "fbec82441bdf77f880b87d628477ca65c0af0cfe7b5529ac9a421ecadde7b2e4",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.6_s-1_m29.npz",
+    "sha256": "83064c070e96426f0d7b4cd4a8498c47d921242f91a816d9ef4952c43a7fe4b4",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.6_s-1_m30.npz",
+    "sha256": "4b6192e2026f3b706b9b6c3ea5cb8557604be9c2e18be801c22be418d3e60aa5",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.6_s-1_m31.npz",
+    "sha256": "e1123e24f2370461c20acd7b6490356778c77180c0a5912fd71d48288060a6cd",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.6_s1_m24.npz",
+    "sha256": "444dc8e8bcba7999e3e6c951eda3fc6bb4bdee55be9f7f9533ff62551f880d77",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.6_s1_m25.npz",
+    "sha256": "24b5bd850362afd5851ba5c8dc26177122d4ebd664f5a509e64940f37f517352",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.6_s1_m26.npz",
+    "sha256": "452e9da695af3101342b819ab627299af67ac33b2fc0c30fc4ea412ce5b438c2",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.6_s1_m27.npz",
+    "sha256": "624db9a5c010ed216c19c60b06adabae1e099e59f7d8a53acdd4c4cc42a9291f",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.6_s1_m28.npz",
+    "sha256": "b630e9741087471ff5bbe9fac82734f6a307132bb25fdb96ecb853bc11e68a53",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.6_s1_m29.npz",
+    "sha256": "dadb8c82c4614967e3cedd4bf839815bc51ba07f86d7d9ca236bc200b6211472",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.6_s1_m30.npz",
+    "sha256": "cf69ef4b29f098703165c33be007174b71e62686d3a4868604b19366acd7bfd1",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.6_s1_m31.npz",
+    "sha256": "1d4b97cbf7f478119d81644bcf8ae1e34a75e636b0a6cc34b2fc20f31fbae208",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.75_s-1_m17.npz",
+    "sha256": "ccb12f4fe521c2062ee49f28b1b89e45b4031c614670a4997ecee7c737740d8e",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.75_s-1_m18.npz",
+    "sha256": "45286daa80eefddc73271c5985b0dd0c7120142f9dfd2e406ebe17aebf7f75b7",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.75_s-1_m19.npz",
+    "sha256": "c384f9403ab4df9637d16dd3b5dc268e62edb7207d9f8b66626ad710284577e6",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.75_s-1_m20.npz",
+    "sha256": "11b7f7f2a42e78727541c73d31acf40b3bb18e1a665540af493c429679a98d06",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.75_s-1_m21.npz",
+    "sha256": "379e1fc6b464930aeb2122aacebe6dfb898ff94dff808804e9ce026a153cc37d",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.75_s-1_m22.npz",
+    "sha256": "394d6703487164264fa854f7c53fff70ad3db1837bf0b9fe4bd029cc824ef003",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.75_s-1_m23.npz",
+    "sha256": "7b2b6e92128701e85822b9582136ef5effc5c4f3bb9e9092db9ab8ccb6e461bb",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.75_s-1_m24.npz",
+    "sha256": "aa36604e14021a487c89a365157057bd45375cb1ed9b65a2ce9ee54cd5471290",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.75_s1_m17.npz",
+    "sha256": "5277343c7faaef0caa8907f49c858b1dca62c05648fe2ae80ffce28f2fc10f5d",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.75_s1_m18.npz",
+    "sha256": "d5998c90b2988f86a29bcb1bef84471f39de1b27ae0a3ab812a4a21237ee4df4",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.75_s1_m19.npz",
+    "sha256": "b9413d2f2969b89af6bd1c4e37714e31a7d694c0469d9e6ffdd5417b509ae72c",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.75_s1_m20.npz",
+    "sha256": "38666ff9bedab729abc1522dbe791577fec9d715862d3a47b025daae4798ac16",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.75_s1_m21.npz",
+    "sha256": "50837e3fa3e42a122d79bc1d7ec53cc9cf4f876049053905fa55cf3fd1c0e15c",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.75_s1_m22.npz",
+    "sha256": "84e0619e90ca3083d6dd5d9b2d73992e57f70aad089e7d378dd2fd557aa6071c",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.75_s1_m23.npz",
+    "sha256": "18af2933375becb291122f61fe74684894cf34887bbf5b0582bf911816c8bd4a",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b0.75_s1_m24.npz",
+    "sha256": "b9be78d27642e16a04516828fa78d62ceadf0c23b0a3d3b7ce887d68c385763b",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.25_s-1_m10.npz",
+    "sha256": "332e4635510196fd1ee57f226809a211e1347ef26b4b100dd004dad1b88d1326",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.25_s-1_m11.npz",
+    "sha256": "6d6d14de42cb90357fda7c8c7416c8eb2a88cfc9893913e3c9d86ef4a2196240",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.25_s-1_m12.npz",
+    "sha256": "6358c9f1befb4b8819fbcfa48a8036f4d0d54d89ba16ceb501ddc4759b859cde",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.25_s-1_m13.npz",
+    "sha256": "1659249851c81b2230209da10324ab5efaab5518781f3261d00c04ee65fa3aed",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.25_s-1_m14.npz",
+    "sha256": "5e07f0687be68cf12ed653bd8e197b7505c63ec9246fbebac0a2c50b1b4bf563",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.25_s-1_m15.npz",
+    "sha256": "33a0c969fc722f97a34dda5353ff4af6f0c9474356d7406b39597254a1bd1d89",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.25_s-1_m8.npz",
+    "sha256": "6688713e5ad2d9dc9324f2eaaed6e1b8371f2f93ef3a902b6c8f1c5dae40cac4",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.25_s-1_m9.npz",
+    "sha256": "d28bed3fbdb813a59693a55bcf225474758714c4ac05baa9d876129451c4f90e",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.25_s1_m10.npz",
+    "sha256": "dfc162e8c4e9e529d046dddc746291f3af54bdaec1a3f1b30a8a913d3fccf9a0",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.25_s1_m11.npz",
+    "sha256": "a809fca3210099b6aead7b1efec3e4ed4882c637f1d126999704729a55883970",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.25_s1_m12.npz",
+    "sha256": "c099935f318d60ae3351aeb5a19a4d3e391e0f32d9ebec29eb736adc174f4f35",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.25_s1_m13.npz",
+    "sha256": "b337720efd71bdaf9f84c4cb8bbe234f5d3a6d2465678a3ee8b98ac88b529955",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.25_s1_m14.npz",
+    "sha256": "14734f402ffc96a93f9313066c130871051d8a6ebddac9b145c945484f72056d",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.25_s1_m15.npz",
+    "sha256": "f917d42caed660c6dfcc90a1b0c6d6bfbea2d77b5f4ecda815c69d111a9d9eaa",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.25_s1_m8.npz",
+    "sha256": "ea882eada2ae2b48777989be995a6cd1eb6e67094867c024bc5f66ffeaa4ce69",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.25_s1_m9.npz",
+    "sha256": "556377f589dfe93395261e6910f664a1ea57f99771b203ff57a4109db5949efc",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.5_s-1_m10.npz",
+    "sha256": "b1b0672e4cddac0f9e976a9cd8053209a8850f07d260f05b9563fc69ba1f6653",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.5_s-1_m11.npz",
+    "sha256": "0c934c6705e3133c75e5e6066962713144597e15f958ecf553d3f4271522a276",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.5_s-1_m12.npz",
+    "sha256": "20c4749cb9e7e7ee1610f8231a6ee9aff395f6e04269facb96353f90be353805",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.5_s-1_m13.npz",
+    "sha256": "6c41be71e4235f00257a6c405c39aceb4c369890df43d8c023d0dd298ede54b3",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.5_s-1_m6.npz",
+    "sha256": "3f2b29daa29a73381d81cc479fe4e8292892054000430a020ed58cd31d22aef6",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.5_s-1_m7.npz",
+    "sha256": "cac7c0419a95a1628457cd3bb5c9408f7c7c03ddd923b1afac566502d162ee01",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.5_s-1_m8.npz",
+    "sha256": "81f890bf7737af49806406fecccb04f38cd938d4bad3a8d9f4d8f983829bb2cc",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.5_s-1_m9.npz",
+    "sha256": "f48f25ac53a750e4895ea2e9f04f2e22beea331ae6964c949dab21da63fb0160",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.5_s1_m10.npz",
+    "sha256": "c5efb4051e1cef3ffa60dca1c767d74ce5b011baf564dedda67d4da7ab3605a6",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.5_s1_m11.npz",
+    "sha256": "539910db6f7dc6c1978bcd529f1f11e28fc03edc05a18ba8906f308b3c105ca8",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.5_s1_m12.npz",
+    "sha256": "8867e77c6f429f685b4fc1f641b6bb4b583c210966685c2c5ab21844eff2328e",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.5_s1_m13.npz",
+    "sha256": "86ab0a87b19df1bb205b0dc1601b1e5406a5ac30e99619812252d57131cc94f5",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.5_s1_m6.npz",
+    "sha256": "dec7e9ee0fc5d4fdec32ad612f62f4930650735df731916d9e5ff8796295547d",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.5_s1_m7.npz",
+    "sha256": "22ee32983e2236e3b7f17e3357ccaa5daac9675c49ffdb02fa871199dd732ab1",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.5_s1_m8.npz",
+    "sha256": "61c78a994b4dfe23f981c813b20e8d77e3d347ebed2113d2d015128d8a38ad0a",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1.5_s1_m9.npz",
+    "sha256": "6a87ff3b72f3fc1acee18ac885dfc0b413bd229094be3e58150cf3e64a1815a9",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1_s-1_m10.npz",
+    "sha256": "a13f86d1c8d73cad9ec048c220eb0f810edd27450b857bb2fbcb8952574d5ccc",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1_s-1_m11.npz",
+    "sha256": "9c35dc9376505892dd0de08a2c07402ed55dc6a22ddaf8b72e2bd03b69af21c8",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1_s-1_m12.npz",
+    "sha256": "970e6b6fe17b9f60a755a4279d045aa3e94019645ed49be4ae3e72289c151af3",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1_s-1_m13.npz",
+    "sha256": "37dfc87323b4fbfa2db7ef76d5eb9de37a9b4b3f4ef608a2f57a4828ca45f1ac",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1_s-1_m14.npz",
+    "sha256": "06ffe91432e8684ed0b7a932a7ff063fcb1e58dd18967dbf47422de029f483e6",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1_s-1_m15.npz",
+    "sha256": "598ea1ead08e784483986eb6e7ca4307a2b84ddd62eca147b28eb403a9449a65",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1_s-1_m16.npz",
+    "sha256": "b72e742480211fd47b77dd1a33e2baefdb133a16a202dc5db7d5d0f6a5fb0489",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1_s-1_m17.npz",
+    "sha256": "74ea9e727a1a04016f7e31d6bf2647bd7f5c7f7e3df430d1e1a3921f6db5a473",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1_s1_m10.npz",
+    "sha256": "0f5b5d8cca96ad1172713e22fedcd9d720d6fd8b4036c4dae5ceb4b3e874e152",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1_s1_m11.npz",
+    "sha256": "a9cc40c2a860b0f631548422d783718c95a4f2f969005d3e85b6c365f5cc781d",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1_s1_m12.npz",
+    "sha256": "8678126d3c353f91d1ecf9a30bcde7682c1f1c66536e3ee7c92bca1791084394",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1_s1_m13.npz",
+    "sha256": "b1614a6409d1bfac86668427ed77e99966f98020c608238c4ea1d159881b7eb8",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1_s1_m14.npz",
+    "sha256": "2e0ff096dfd3ff18735d3f3c3b20d31dbe45e75b581541744ce2287b33078a5a",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1_s1_m15.npz",
+    "sha256": "82ca7c0f31d1885b870912ad52a50285459c021e9a920d1fc36637c7c7670432",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1_s1_m16.npz",
+    "sha256": "875e69016e6a7fd2b0ad433416bee108f24ecb165a47437f19a14c8b5f9e145d",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_b1_s1_m17.npz",
+    "sha256": "5ffe038cec6fa68c998fdaf210d16eb3f176cb98b3f27e40951aee82fdff018e",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/fold_convergence.csv",
+    "sha256": "d67d53415b26652d2043fc262b673142e74baa532dfe8ef5956f37319f6be274",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/folds_80.csv",
+    "sha256": "fe27da0e965ffa124ed949250e80e63e98234f2c3de618860f38e30a1726b068",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": true
+  },
+  {
+    "file": "data/fredholm_prefactors.csv",
+    "sha256": "6a3d41da7655aca1b195c21cfc24ccf6977fae3c62a1fe33726b0a2332a2ed39",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/hamiltonian_hopf.csv",
+    "sha256": "c57c812308f611f4b0179135ebc7b19cd718cd26606f3e5cd1b3e0f235cbe6a7",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/reduced_checks_summary.json",
+    "sha256": "b8cc608a230a0d42a6f1822473e43063c242b0e8c33c493976a2b7c9b4662b3e",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/representative_HH.npz",
+    "sha256": "8640fc2b78e1b308c90a4813e2dd9080bf3cdfeaa47c06542e23a87531fd9a29",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/representative_real_unstable.npz",
+    "sha256": "127e14dfa95d87dc9957d68d95af9bf3eb199295f0bdd280802c5c880df8db20",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/representative_stable.npz",
+    "sha256": "912b9f3f9e7765c5b77534f24bc27a3e7143322b69c8cf2b41dba8652a0dde4a",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": true
+  },
+  {
+    "file": "data/representative_values.json",
+    "sha256": "6e27fe45227f9b361eb837eac0677a18bbc409269a5f268cb96d88d043779e80",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": true
+  },
+  {
+    "file": "data/softening_b0.6_m24.npz",
+    "sha256": "38dccf6e6d8cc0319e42da838b910bbd874c6a69368e624a827b4a8bcb6f696e",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b0.6_m25.npz",
+    "sha256": "0029bafa4966df5eadd4b1f765606f1139ee0865e48389d397d103dd0be4dfff",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b0.6_m26.npz",
+    "sha256": "8f3b03954c641a870e667f6173b76712ba52d594ebf028b586a1530f1dfe48c9",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b0.6_m27.npz",
+    "sha256": "606ecd0b65b9c0d2f394a789eb76e569b55919c3558e2d7c3b847dc7f39718c4",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b0.6_m28.npz",
+    "sha256": "8242d8cb6d40a3a1a90ac867d5582003dcd60e934c50b372b540eada5e678016",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b0.6_m29.npz",
+    "sha256": "a5ad9c74e0d816d451b1598166b92213d452bdddb4ef65b11cc36a81fb44169f",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b0.6_m30.npz",
+    "sha256": "ee8a9d36ac848556ace986484d4f20f990c6ccd0f799f049050a69fd4c618a4e",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b0.6_m31.npz",
+    "sha256": "8ce0e0fc7f1901426d600f604910a154b7edf03debc879744eedaf79b7b14537",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b0.75_m17.npz",
+    "sha256": "b7768b325776d6189a462acbfe5c8be570c66325d327dc774b483bed64af6a06",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b0.75_m18.npz",
+    "sha256": "e7c3dabc7ba4481165fdfeb81e3faeb1be496864d8f3e3c13b02844f17a97ed6",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b0.75_m19.npz",
+    "sha256": "1b6ef1092224b2399d9026a00a65b214e5be2098bbd6a2766e9889e83d28259c",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b0.75_m20.npz",
+    "sha256": "2e735ec507b052b4bd0693d6ed58006c6e3a40deb1f3396ec62db381fe389d7e",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b0.75_m21.npz",
+    "sha256": "d2b82e1df9a51169179ebf947794c87fc29f225ca44e4f787e38a58c6d5d72dc",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b0.75_m22.npz",
+    "sha256": "e3f94d90cee2adc7812458868f74f41b7a7c6a74bf4753c0bef66e2e3ba0f6e6",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b0.75_m23.npz",
+    "sha256": "2d6e535afaf1e76d53b98add8991b3bedbe2a6c97763c7364122ebccc95b4946",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b0.75_m24.npz",
+    "sha256": "6de8ec400a691efbba69ee441f3347566ac1f021cd102d81920655d75d678700",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b1.25_m10.npz",
+    "sha256": "46b709d2d10ef1c85190cda8dd5d5bd9a4787274f8c09f624d6e02d302c76e40",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b1.25_m11.npz",
+    "sha256": "628f20353d0b3892e90f8f3d88c4f420db19ea20d89efd1977a7896d2d51633f",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b1.25_m12.npz",
+    "sha256": "41f3324dc985b00cabb4bab86ac7499ce9a5327821c825e5f9558b9d4bb883a2",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b1.25_m13.npz",
+    "sha256": "388d422576d9f0d327f8a8512114ca689512c9333c93b6d697d17f0e16116593",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b1.25_m14.npz",
+    "sha256": "775bae904031d37c9b2330f5e6159eef9def787ca6089c0b788a57ffccb3f4c5",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b1.25_m15.npz",
+    "sha256": "33e4ba60564f2a67ae7e8f09c36d4336e173fd73e3ae7191144c8c81a77d9097",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b1.25_m8.npz",
+    "sha256": "2a2d22f2a21ca7965d6d7992f128f7f6732bf112e877fe7997611cd5f8cccd58",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b1.25_m9.npz",
+    "sha256": "fe574c3da0e5467c69e21ef3ffc684052d3f6581e6158285b604b0a696566187",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b1.5_m10.npz",
+    "sha256": "5613d3b785dded65b0f14659915865d714f62e16a8a32f1c8cd229305fe42abc",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b1.5_m11.npz",
+    "sha256": "31b37be4ff638a03007995660abd61bd9d7a69ee5724ad75d43495eb1aa18ac8",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b1.5_m12.npz",
+    "sha256": "ea93667917f6ee5b71a77ccc59bd15564ede9ec4955f6060b8203101a0e072e5",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b1.5_m13.npz",
+    "sha256": "42a5ceb46b856aa45bfca3c8ff0f1a84b15f630f14fe5fba41d8df5f14c0e201",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b1.5_m6.npz",
+    "sha256": "1490682059dff9e071f89abb595fb1c3df3951acc9af8cca4996ebecd4c2eba8",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b1.5_m7.npz",
+    "sha256": "ec64a038c3e70f80929752988dc385d1226b5d8609dc71e55b4b28ce4b520da9",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b1.5_m8.npz",
+    "sha256": "e25c6c991ef57612890e7ca5967783350fd08471f61d8859b4483d73d008c7eb",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b1.5_m9.npz",
+    "sha256": "f757a92cb0b40e6d5115578f5a6378028e18e6d188ee24fc13b3809b9a0a0c6d",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b1_m10.npz",
+    "sha256": "1e4de950258089aff9d6e39762a4f0a2d2d04305a56bc33cafac45eecda4ebe6",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b1_m11.npz",
+    "sha256": "5b62ab070e60dac62f4f0f14c92ae1fa9c2bc083ea9eaaef1ef475b5d392acfb",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b1_m12.npz",
+    "sha256": "b3f69374388a6def4b86d249b6c38760876f3c2a2b85a59260179b1817b477b3",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b1_m13.npz",
+    "sha256": "3b0e069dd60037fa87b6f7112cb4a39b559dc8150d6e7b512807b8d7a47312ec",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b1_m14.npz",
+    "sha256": "45b6b02c73474c6477155bf2b6ba693df0bab0b82b0e965e7f2f57e1b34faa3c",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b1_m15.npz",
+    "sha256": "901d23874eea393d2e5ae148dad2e542c0291046a08283419933b14ba02fc190",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b1_m16.npz",
+    "sha256": "7161894eb524932553a0a7d4a07922f9dec99fec5d78077c27b21fd176268422",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_b1_m17.npz",
+    "sha256": "606d0ef55a29e029937e71f140fde164400ca4701fa77b975b739c02f0f39460",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_convergence.csv",
+    "sha256": "e7d001590fc047afefdd77eb4da1cbb06ce4af54774a2139d00d387f7fc4c04b",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/softening_thresholds.csv",
+    "sha256": "8cc99ff1fc90274053b9f17d7dc1d876f7cb47b29836e5dd53c1b9e8268ec3d5",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": true
+  },
+  {
+    "file": "data/spectral_convergence.csv",
+    "sha256": "24731ab27ba36775b06d8a0ac70f31d0ba7e42158b1de50bcea0952253b0a47f",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/spectral_exponents.csv",
+    "sha256": "b6db22d0f3940ba6f6ea396122a439ef277fc4dfebbdb37e12acc640965a025a",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": true
+  },
+  {
+    "file": "data/spectral_grid.csv",
+    "sha256": "aee06603fe1b69e61f7bdf893d4be9a9d8f63a1cd62b04a67053a9a1145344a9",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": true
+  },
+  {
+    "file": "data/spectral_sum_rule.csv",
+    "sha256": "e699079c4868d85f4db0679e054e1383716d23e8b2706d355211dff54671a0ce",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": true
+  },
+  {
+    "file": "data/spectral_sum_rule_summary.csv",
+    "sha256": "849c6be2a94c5242bb866c6cf7fbbba430822e0aedb56df58839182561ee9d72",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  },
+  {
+    "file": "data/symmetry_breaking.npz",
+    "sha256": "8facd63f05ffd709810aa001f4bcff55d5791cc750e522ff2c9b27d71fc4cb81",
+    "source": "previously materialized original numerical archive",
+    "present_in_uploaded_rar": false
+  }
+]
